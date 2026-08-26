@@ -61,7 +61,7 @@ MIT: [`LICENSE`](LICENSE).
 
 | Статья | Рецепт | Публикация |
 |---|---|---|
-| Правила для агента: что копируют и где ломается | `recipes/rule-under-a-job/` | *в работе, Хабр* |
+| Harness engineering: контроль правил агента и где ломается | [`recipes/rule-under-a-job/`](recipes/rule-under-a-job/) | [Хабр](https://habr.com/ru/articles/1074764/) |
 | Harness engineering: как за год собрать фабрику из десятка конвейеров | рабочий пример: [`agent-harness-reference`](https://github.com/naimax/agent-harness-reference) | [Хабр](https://habr.com/ru/articles/1062822/) |
 
 Соседний репозиторий [`agent-harness-reference`](https://github.com/naimax/agent-harness-reference) не рецепт, а собранная среда, которую клонируют и запускают: роли, гейты, журнал, детекторы. Здесь другое: как сделать своё под свою работу.
